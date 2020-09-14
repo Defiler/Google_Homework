@@ -1,0 +1,36 @@
+#mlogo {
+    padding-top: 100px;
+
+}
+#main {
+    margin-top: 90px;
+
+}
+#inf {
+    padding-right: 30px;
+    position: relative;
+    right: 0px;
+    text-align: right;
+    align-items: center;
+}
+#gmail{
+    text-decoration: none;
+    color: black;
+    padding-left: 5px;
+    font-family: sans-serif;
+}
+#d9 {
+    background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+}
+#ndts {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#user {
+    bottom: 0%;
+    top: 0%;
+}
+#srch {
+    text-align: center;
+}
+
